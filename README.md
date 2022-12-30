@@ -1,4 +1,4 @@
-This code accompanies the paper _Lower Bounds on Cross-Entropy Loss in the Presence of Test-time Adversaries_ accepted at ICML 2021. 
+This code accompanies the paper [_Lower Bounds on Cross-Entropy Loss in the Presence of Test-time Adversaries_](https://proceedings.mlr.press/v139/bhagoji21a.html) accepted at ICML 2021. 
 
 
 ## Lower bounds on cross-entropy loss
